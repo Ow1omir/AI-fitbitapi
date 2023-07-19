@@ -12,7 +12,7 @@ Fitbit API App Inventor Extension: Seamlessly integrate Fitbit data into Android
 ## First steps
 
 1. Fisrt login [here](https://dev.fitbit.com/login) to your account Fitbit.
-2. Go to [apps](https://dev.fitbit.com/login) and register new one.
+2. Go to [apps](https://dev.fitbit.com/apps) and register new one.
 3. img
 4. After, visit my [python script](https://trinket.io/python3/c449f80cba), enter client ID, secret key, and redirect URL, run the script, follow generated URL in console, allow requirements, then on localhost, find the final authorization code in the URL. Paste it in the console to get your API key.
     or if url isn't working:
