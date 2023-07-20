@@ -6,7 +6,7 @@ Fitbit API App Inventor Extension: Seamlessly integrate Fitbit data into Android
 
 - [First steps](#installation)
 - [Installation](#usage)
-- [Usage](#contributing)
+- [Usage](#Usage)
 
 
 ## First steps
