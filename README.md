@@ -47,9 +47,9 @@ Fitbit API App Inventor Extension: Seamlessly integrate Fitbit data into Android
 
 ## Installation
 
-Information on how to use your project. Include examples and code snippets if applicable.
+To use extansion you need to dowload compiled [file](https://github.com/Ow1omir/AI-fitbitapi/tree/main/out) from directiory "[out](https://github.com/Ow1omir/AI-fitbitapi/tree/main/out)" and import it in App Inventor.
 
 ## Usage
 
-Guidelines for other developers who want to contribute to your project.
+![Usage gif]()
 
