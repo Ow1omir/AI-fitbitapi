@@ -51,5 +51,5 @@ To use extansion you need to dowload compiled [file](https://github.com/Ow1omir/
 
 ## Usage
 
-![Usage gif]()
+![Usage gif](https://github.com/Ow1omir/AI-fitbitapi/blob/main/git%20img/usageGif.gif?raw=true)
 
